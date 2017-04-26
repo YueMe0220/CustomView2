@@ -1,0 +1,18 @@
+#Internal package file, do not edit.
+#Fri Jan 06 18:47:13 CST 2017
+1.base=E\:\\WorkCode\\CustomView2\\CustomView2\\水波纹完整版\\build\\intermediates\\res\\resources-debug.ap_
+4.file=E\:\\WorkCode\\CustomView2\\CustomView2\\水波纹完整版\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\ic_launcher.png
+1.file=E\:\\WorkCode\\CustomView2\\CustomView2\\水波纹完整版\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+4.set=ANDROID_RESOURCE
+2.base=E\:\\WorkCode\\CustomView2\\CustomView2\\水波纹完整版\\build\\intermediates\\res\\resources-debug.ap_
+3.set=ANDROID_RESOURCE
+2.set=ANDROID_RESOURCE
+2.file=E\:\\WorkCode\\CustomView2\\CustomView2\\水波纹完整版\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_main.xml
+count=5
+1.set=ANDROID_RESOURCE
+3.base=E\:\\WorkCode\\CustomView2\\CustomView2\\水波纹完整版\\build\\intermediates\\res\\resources-debug.ap_
+0.set=ANDROID_RESOURCE
+0.base=E\:\\WorkCode\\CustomView2\\CustomView2\\水波纹完整版\\build\\intermediates\\res\\resources-debug.ap_
+3.file=E\:\\WorkCode\\CustomView2\\CustomView2\\水波纹完整版\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+0.file=E\:\\WorkCode\\CustomView2\\CustomView2\\水波纹完整版\\build\\intermediates\\res\\resources-debug.ap_\\res\\menu\\activity_main.xml
+4.base=E\:\\WorkCode\\CustomView2\\CustomView2\\水波纹完整版\\build\\intermediates\\res\\resources-debug.ap_

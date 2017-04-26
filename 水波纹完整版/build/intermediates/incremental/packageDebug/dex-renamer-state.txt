@@ -1,0 +1,7 @@
+#Fri Jan 06 18:47:21 CST 2017
+base.0=E\:\\WorkCode\\CustomView2\\CustomView2\\水波纹完整版\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_c2b50bcc703f41bca6438248ec8c0f4fe90e1b8c
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=E\:\\WorkCode\\CustomView2\\CustomView2\\水波纹完整版\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_7168de58459532e94f4483d10c97b7e5925c7ee9\\classes.dex
+base.1=E\:\\WorkCode\\CustomView2\\CustomView2\\水波纹完整版\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_7168de58459532e94f4483d10c97b7e5925c7ee9
+file.0=E\:\\WorkCode\\CustomView2\\CustomView2\\水波纹完整版\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_c2b50bcc703f41bca6438248ec8c0f4fe90e1b8c\\classes.dex

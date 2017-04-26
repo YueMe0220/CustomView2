@@ -1,0 +1,15 @@
+#Internal package file, do not edit.
+#Fri Jan 06 18:46:46 CST 2017
+1.base=E\:\\WorkCode\\CustomView2\\CustomView2\\事件分发小案例\\build\\intermediates\\res\\resources-debug.ap_
+1.file=E\:\\WorkCode\\CustomView2\\CustomView2\\事件分发小案例\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+2.base=E\:\\WorkCode\\CustomView2\\CustomView2\\事件分发小案例\\build\\intermediates\\res\\resources-debug.ap_
+3.set=ANDROID_RESOURCE
+2.set=ANDROID_RESOURCE
+2.file=E\:\\WorkCode\\CustomView2\\CustomView2\\事件分发小案例\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\lv_item.xml
+count=4
+1.set=ANDROID_RESOURCE
+3.base=E\:\\WorkCode\\CustomView2\\CustomView2\\事件分发小案例\\build\\intermediates\\res\\resources-debug.ap_
+0.set=ANDROID_RESOURCE
+0.base=E\:\\WorkCode\\CustomView2\\CustomView2\\事件分发小案例\\build\\intermediates\\res\\resources-debug.ap_
+3.file=E\:\\WorkCode\\CustomView2\\CustomView2\\事件分发小案例\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+0.file=E\:\\WorkCode\\CustomView2\\CustomView2\\事件分发小案例\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_main.xml

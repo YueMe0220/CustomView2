@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\WorkCode\\CustomView2\\CustomView2\\练习一\\build\\intermediates\\res\\merged\\debug\\layout\\main_contant.xml",
+        "source": "E:\\WorkCode\\CustomView2\\CustomView2\\练习一\\src\\main\\res\\layout\\main_contant.xml"
+    },
+    {
+        "merged": "E:\\WorkCode\\CustomView2\\CustomView2\\练习一\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "E:\\WorkCode\\CustomView2\\CustomView2\\练习一\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\WorkCode\\CustomView2\\CustomView2\\练习一\\build\\intermediates\\res\\merged\\debug\\layout\\main_menu.xml",
+        "source": "E:\\WorkCode\\CustomView2\\CustomView2\\练习一\\src\\main\\res\\layout\\main_menu.xml"
+    }
+]
