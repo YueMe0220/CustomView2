@@ -23,11 +23,7 @@ public class MainActivity extends AppCompatActivity {
     private ViewPager viewpager;
     private TextView tv_title;
     private LinearLayout ll_point_group;
-    //ListView的使用
-    //1.在布局文件中定义ListView
-    //2.在代码中实例化ListView
-    //3.准备数据
-    //4.设置适配器-item布局-绑定数据
+
 
     private ArrayList<ImageView> imageViews;
 
@@ -222,7 +218,7 @@ public class MainActivity extends AppCompatActivity {
                 public boolean onTouch(View v, MotionEvent event) {
                     switch (event.getAction()){
                         case MotionEvent.ACTION_DOWN://手指按下
-                            Log.e(TAG,"onTouch==手指按下");
+                                Log.e(TAG,"onTouch==手指按下");
                             handler.removeCallbacksAndMessages(null);
                             break;
 
